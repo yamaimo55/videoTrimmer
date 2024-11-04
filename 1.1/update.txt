@@ -1,0 +1,8 @@
+1. add slow playback button 
+    VideoItem.swift VideoPlayerControlsView.sift 
+2. inproved the progress view display without dismissing the keyboard
+    InputParametersView.swift 
+3. When the screen size is large, the margin under the InputDataView button is large.
+    DisplayInfo.swift PlayerContainerView.swift InputParametersView.swift 
+4. When pressing the Start Trim button repeatedly, the last write fails (added output filename check).
+   inputParametersView.swift VideoParameters.swift

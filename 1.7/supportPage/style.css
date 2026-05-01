@@ -20,6 +20,10 @@ ul, ol, li {
 	text-indent: 1em;
 }
 
+.alingMiddle {
+	vertical-align: middle;
+}
+
 .font-red {
 	color: #800000; 
 }

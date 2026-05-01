@@ -32,6 +32,9 @@ ul, ol, li {
 .screenshot2 {
 	width: 250px; height: auto;
 }
+.screenshotToggleImage {
+	width: 80px; height: auto;
+}
 
 .flex {
 	display: flex;

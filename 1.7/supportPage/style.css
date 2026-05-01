@@ -38,6 +38,7 @@ ul, ol, li {
 }
 .screenshotToggleImage {
 	width: 80px; height: auto;
+	vertical-align: middle;
 }
 
 .flex {
